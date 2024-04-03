@@ -4,3 +4,4 @@ This is my first git repository.
 Author-Sidak Preet Singh
 i like free fire 
 i  hate doing any work
+hlo i am alsi 
